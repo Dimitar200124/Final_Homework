@@ -1,0 +1,118 @@
+{
+    "ips": [
+        {
+            "artifact": "165.232.174.130",
+            "malicious": 11,
+            "suspicious": 0,
+            "harmless": 50,
+            "undetected": 33
+        },
+        {
+            "artifact": "42.158.38.61",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "186.153.108.119",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "141.105.71.82",
+            "malicious": 7,
+            "suspicious": 0,
+            "harmless": 51,
+            "undetected": 36
+        },
+        {
+            "artifact": "44.251.200.204",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "174.195.49.5",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "168.238.55.17",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "14.29.129.91",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "149.51.230.198",
+            "malicious": 13,
+            "suspicious": 1,
+            "harmless": 47,
+            "undetected": 33
+        },
+        {
+            "artifact": "153.206.237.220",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "217.96.56.212",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "47.137.38.74",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        },
+        {
+            "artifact": "193.149.180.175",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 59,
+            "undetected": 35
+        },
+        {
+            "artifact": "205.135.28.38",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 0,
+            "undetected": 94
+        }
+    ],
+    "domains": [
+        {
+            "artifact": "urlhaus.abuse.ch",
+            "malicious": 0,
+            "suspicious": 0,
+            "harmless": 59,
+            "undetected": 35
+        },
+        {
+            "artifact": "blue-oceans.net",
+            "malicious": 7,
+            "suspicious": 2,
+            "harmless": 53,
+            "undetected": 32
+        }
+    ]
+}
